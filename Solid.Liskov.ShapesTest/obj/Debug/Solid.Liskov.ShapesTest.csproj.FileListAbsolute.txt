@@ -1,0 +1,6 @@
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\bin\Debug\Solid.Liskov.ShapesTest.dll
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\bin\Debug\Solid.Liskov.ShapesTest.pdb
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\obj\Debug\Solid.Liskov.ShapesTest.csprojResolveAssemblyReference.cache
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\obj\Debug\Solid.Liskov.ShapesTest.dll
+d:\LEARN\SOLID\Solid.Liskov.ShapesTest\obj\Debug\Solid.Liskov.ShapesTest.pdb

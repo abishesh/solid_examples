@@ -1,0 +1,3 @@
+Clients should not be forced to depend upon interfaces that they don't use. 
+
+Breaking down interfaces in smaller pieces make them easier to implement, and offers more control over who sees what. 

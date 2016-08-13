@@ -1,0 +1,1 @@
+d:\learn\SOLID\SOLID\bin\Debug\SOLID.exe.config

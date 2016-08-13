@@ -1,0 +1,8 @@
+d:\LEARN\SOLID\Solid.Ocp\bin\Debug\Solid.Ocp.exe.config
+d:\LEARN\SOLID\Solid.Ocp\bin\Debug\Solid.Ocp.exe
+d:\LEARN\SOLID\Solid.Ocp\bin\Debug\Solid.Ocp.pdb
+d:\LEARN\SOLID\Solid.Ocp\bin\Debug\Newtonsoft.Json.dll
+d:\LEARN\SOLID\Solid.Ocp\bin\Debug\Newtonsoft.Json.xml
+d:\LEARN\SOLID\Solid.Ocp\obj\Debug\Solid.Ocp.csprojResolveAssemblyReference.cache
+d:\LEARN\SOLID\Solid.Ocp\obj\Debug\Solid.Ocp.exe
+d:\LEARN\SOLID\Solid.Ocp\obj\Debug\Solid.Ocp.pdb

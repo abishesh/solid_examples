@@ -1,0 +1,8 @@
+d:\LEARN\SOLID\Solid.Srp\bin\Debug\Solid.Srp.exe.config
+d:\LEARN\SOLID\Solid.Srp\bin\Debug\Solid.Srp.exe
+d:\LEARN\SOLID\Solid.Srp\bin\Debug\Solid.Srp.pdb
+d:\LEARN\SOLID\Solid.Srp\obj\Debug\Solid.Srp.csprojResolveAssemblyReference.cache
+d:\LEARN\SOLID\Solid.Srp\obj\Debug\Solid.Srp.exe
+d:\LEARN\SOLID\Solid.Srp\obj\Debug\Solid.Srp.pdb
+d:\LEARN\SOLID\Solid.Srp\bin\Debug\Newtonsoft.Json.dll
+d:\LEARN\SOLID\Solid.Srp\bin\Debug\Newtonsoft.Json.xml
